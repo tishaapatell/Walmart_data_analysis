@@ -1,5 +1,6 @@
 # Walmart_data_analysis
 Walmart Sales & Profitability Analysis
+
 📌 Project Overview
 This project analyzes Walmart’s sales dataset to uncover trends, patterns, and profitability insights across different product categories, locations, and customer behaviors. The goal is to provide data-driven recommendations that can support decision-making in inventory management, pricing strategy, and marketing campaigns.
  
